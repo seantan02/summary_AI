@@ -1,0 +1,6 @@
+data_prep.py
+useless.*
+test.*
+checkpoints/*
+Data/*
+models/*

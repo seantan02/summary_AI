@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+torch
+nltk
+selenium
+inflect
